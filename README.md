@@ -20,13 +20,12 @@ This is a solution to the "QR code component challenge" on Frontend Mentor (http
 
 ### Links
 
-- Solution URL: (https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://qr-code-component-eta-brown.vercel.app/)
 
 ## My process
-It was my first project since I have been studying for almost 3 months. I think I a lot to learn and much more to develop to code more efficiently and speed.
+It was my first project since I studied for almost 3 months. I have much to learn and more to develop to code more efficiently and speedily.
 
-My biggerst difficults were positioning the container and centering all the elements.
+My biggest difficulty was positioning the container and centering all the elements.
 
 ### Built with
 
